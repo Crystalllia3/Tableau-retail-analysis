@@ -29,7 +29,8 @@ You can view the full interactive dashboard directly on Tableau Public:
 | `README.md` | Project description and instructions. |
 
 > Download `datathon_retail.twb` and open it using [Tableau Public](https://public.tableau.com/en-us/s/) (free) or Tableau Desktop.
-> DOwnload full workbook here:https: //docs.google.com/spreadsheets/d/1cbQtLvA0cvuG_YQ3QddC4mJIaZzdld5-/edit?usp=sharing&ouid=115217222286817821674&rtpof=true&sd=true
+> [Download Full Tableau Workbook Here](https://drive.google.com/drive/folders/1xTYJ-RY9kzbh3yxntgCGBgXetmz_IKxO?usp=sharing)
+
 
 ## 🎯 Key Business Insights
 
